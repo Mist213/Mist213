@@ -1,6 +1,6 @@
 ## About Me
 
-I am a first-year computer engineering student at LSU, and I want to get a Master's degree in ECE.  Through the robotics lab I'm working in, I am getting experience with embedded C++, working with motor control, and researching as a team.  Computer architecture interests me, and a dream job for me would be working at NVIDIA in computer chip design. My next project will be making an 8-bit ALU.
+I’m a first-year computer engineering student at LSU. In LSU’s iCORE Stein Lab, I work on embedded C++ firmware that controls stepper motors for a five-joint robotic arm. I’m especially interested in computer architecture and digital chip design.
 
 ## Projects
 
