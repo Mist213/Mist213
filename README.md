@@ -8,3 +8,4 @@ Our team is building a five-joint robotic arm controlled by an Arduino Mega 2560
 - Moved step-pulse timing from the Arduino’s main loop() to a Timer1 hardware interrupt. This lets the controller maintain pulse timing while the main loop listens for serial commands, including stop requests.
 - Added a yes/no confirmation to the disable command so the operator can cancel before the selected motors lose holding torque.
 
+[View the team's robotic manipulator code](https://github.com/Mist213/robotic-manipulator)
